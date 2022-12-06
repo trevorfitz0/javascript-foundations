@@ -30,5 +30,3 @@ class Hobbit {
     }
 
 module.exports = Hobbit
-
-console.log()
